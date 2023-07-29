@@ -56,12 +56,13 @@ https://docs.google.com/document/d/1zfNyebCm_y7P69j_86b7URWghCkc12qd/edit?usp=sh
 
 Ссылка на проект: 
 
-Код запроса и выводы по полученным результатам:
+Код запроса:
 
 https://docs.google.com/document/d/13wRrnRjFZBXUSKnU7nBmzijOPxIkBqVx/edit?usp=sharing&ouid=106720020709449778004&rtpof=true&sd=true
-Визуализация:
+
 
 https://drive.google.com/file/d/1BQWrjNVkOoo9JbQtyg-zq9dnvqYWLtLZ/view?usp=sharing
+
 
 
 Контактная информация
